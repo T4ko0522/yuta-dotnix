@@ -1307,11 +1307,11 @@
         "uv2nix": "uv2nix"
       },
       "locked": {
-        "lastModified": 1783407443,
-        "narHash": "sha256-q1gY3FKZKpjzbO9lBizwU+hA+LGzQdj56q/urUOwkKg=",
+        "lastModified": 1785487958,
+        "narHash": "sha256-SQgQeaRG/fo4P99Pyxu2pd4nhAJ+R7JNW5a70aCER8I=",
         "owner": "NousResearch",
         "repo": "hermes-agent",
-        "rev": "536ffedbf4704f220fc184cc3dc1ef0bd5f91fb7",
+        "rev": "98105f31f46d3de58a8f69a2a439cee3f7a5e389",
         "type": "github"
       },
       "original": {
